@@ -4,7 +4,7 @@
 
 
 
-The turtle file (.ttl) contains the full design of the REF2014 UoA-11 Computer Science and Informatics Ontology. The file only provides approximately 50% of the original data, which contains the entities and the corresponding attribute data for the entity.
+The turtle file (.ttl) contains the full design of the REF2014 (Research Excellence Framework 2014) UoA-11 Computer Science and Informatics Ontology. The file only provides approximately 50% of the original data, which contains the entities and the corresponding attribute data for the entity.
 
 
 
