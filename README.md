@@ -2,6 +2,8 @@
 
 
 
+
+
 The turtle file (.ttl) contains the full design of the REF2014 UoA-11 Computer Science and Informatics Ontology. The file only provides approximately 50% of the original data, which contains the entities and the corresponding attribute data for the entity.
 
 
@@ -24,3 +26,13 @@ Use of SMOTE in 5-class classification: Sampling strategy: {0:12, 1:18, 2:60, 3:
 3. SVM regressors: Kernel: linear, rbf, sigmoid; coef0: 0, 0.01, 0.03, 0.05; Degree: 1, 2, 3, 4, 5; gamma:1, 2, 3; C: 0.1, 1, 3, 5, 7, 10. 
 4. SVM classifiers: Kernel: linear, rbf, sigmoid; coef0: 0, 0.01, 0.03, 0.05; Degree: 1, 2, 3, 4, 5; gamma:1, 2, 3; C: 0.1, 1, 3, 5, 7, 10. 
 
+
+
+## Data Availability Statement
+
+The impact case study text data used in the study are available at: https://impact.ref.ac.uk/casestudies/APIhelp.aspx. 
+
+
+
+## Acknowledgments
+This work was presented at the data for policy conference in September 2020: https://zenodo.org/record/3967667#.YMyZAi1Q0eY
